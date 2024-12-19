@@ -51,7 +51,10 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 │   
 ├── results/
 │   ├── images/
-│   ├── visualizations/
+│   ├── passive_income_properties.csv
+│   ├── Price_Distribution_by_City.html
+│   ├── Price_vs_Area.html
+│   ├── real_estate_map.html
 │   └── final_report.pdf
 ├── src/
 │   ├── get_data.py
