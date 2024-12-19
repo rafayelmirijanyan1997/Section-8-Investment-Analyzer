@@ -62,7 +62,7 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 │   ├── analyze_data.py
 │   ├── visualize_results.py
 │   └── utils/
-└── proposal.pdf
+└── Project proposal.pdf
 ```
 
 ### Key Files:
