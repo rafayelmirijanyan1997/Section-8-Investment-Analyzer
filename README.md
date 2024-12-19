@@ -131,12 +131,6 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 - Integrate crime rates and renovation costs into the evaluation model.
 - Explore advanced visualization techniques for more engaging insights.
 
----
-
-## Contributors
-- **Rafayel Mirijanyan**
-  - USC ID: 3487192016
-  - GitHub: [rafayelmirijanyan1997](https://github.com/rafayelmirijanyan1997)
 
 ---
 
