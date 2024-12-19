@@ -92,8 +92,8 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
    ```
 
 5. **View Results**:
-   - Open the `results/visualizations` directory for generated plots.
-   - Review the interactive map in `results/visualizations/map.html`.
+   - Open the `results/` directory for generated plots.
+   - Review the interactive map in `results/real_estate_map.html`.
    - Check `results/final_report.pdf` for a detailed project summary.
 
 ---
