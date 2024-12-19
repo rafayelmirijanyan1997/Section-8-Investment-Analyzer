@@ -46,7 +46,7 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 ├── requirements.txt
 ├── data/
 │   ├── raw/
-│   └── processed/
+│   
 ├── results/
 │   ├── images/
 │   ├── visualizations/
@@ -88,7 +88,7 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 
 4. **Generate Visualizations**:
    ```bash
-   python src/visualize_results.py
+   python src/visualize_data.py
    ```
 
 5. **View Results**:
