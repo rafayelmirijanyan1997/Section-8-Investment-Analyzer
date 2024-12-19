@@ -2,6 +2,8 @@
 # Section 8 Investment Analyzer
 
 ## Overview
+
+The Section 8 Housing Program is a federal assistance program designed to help low-income individuals and families afford safe and decent housing in the private rental market. 
 The Section 8 Investment Analyzer is a Python-based tool designed to assist real estate investors in identifying profitable investment opportunities in the Section 8 housing program. By analyzing data from Zillow.com and HUD (Department of Housing and Urban Development), this tool evaluates listings in five investor-friendly cities to recommend properties with significant potential for passive income.
 
 ### Key Features:
