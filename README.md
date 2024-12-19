@@ -81,14 +81,14 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
    python src/clean_data.py
    ```
 
-3. **Analyze Data**:
-   ```bash
-   python src/analyze_data.py
-   ```
-
-4. **Generate Visualizations**:
+3. **Generate Visualizations**:
    ```bash
    python src/visualize_data.py
+   ```
+
+4. **Analyze Data**:
+   ```bash
+   python src/analyze_data.py
    ```
 
 5. **View Results**:
