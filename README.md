@@ -19,7 +19,7 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Fall24-DSCI-510/final-project-rafayelmirijanyan1997.git
+   git clone https://github.com/rafayelmirijanyan1997/Section-8-Investment-Analyzer.git
    cd final-project-rafayelmirijanyan1997
    ```
 
