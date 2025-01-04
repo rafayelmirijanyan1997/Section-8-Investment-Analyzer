@@ -20,7 +20,7 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/rafayelmirijanyan1997/Section-8-Investment-Analyzer.git
-   cd final-project-rafayelmirijanyan1997
+   cd Section-8-Investment-Analyzer
    ```
 
 2. **Set Up a Virtual Environment**:
@@ -57,12 +57,12 @@ The Section 8 Investment Analyzer is a Python-based tool designed to assist real
 │   ├── real_estate_map.html
 │   └── final_report.pdf
 ├── src/
-│   ├── get_data.py
-│   ├── clean_data.py
-│   ├── analyze_data.py
-│   ├── visualize_results.py
-│   └── utils/
-└── Project proposal.pdf
+    ├── get_data.py
+    ├── clean_data.py
+    ├── analyze_data.py
+    ├── visualize_results.py
+    └── utils/
+
 ```
 
 ### Key Files:
